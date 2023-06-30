@@ -1,5 +1,5 @@
 # ABtestAnalysis
-A repo to store my analysis from a fake AB test result. Demonstrating my communication, statistics, design, data visualisation and presentation abilities. 
+A repo to store my analysis from a fake AB test report. Demonstrating my communication, statistics, design, data visualisation and presentation abilities. 
 
 ![image](https://github.com/AnandSol/ABtestAnalysis/assets/109045968/68d069ee-6765-43e4-8013-3bb8b53c8460)
 
